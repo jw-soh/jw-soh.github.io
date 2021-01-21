@@ -1,0 +1,30 @@
+html {
+  background-color: green;
+}
+
+body {
+  background-color: firebrick;
+  border: 2px solid black;
+  filter: drop-shadow(1px 1px 4px black);
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 650px;
+}
+
+nav li {
+  color: aqua;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+img {
+  filter: drop-shadow(1px 1px 4px black);
+}
+ 
+h1 {
+  color: floralwhite;
+}
+ 
+p {
+  font-size: 15px;
+}
